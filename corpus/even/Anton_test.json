@@ -1,0 +1,250 @@
+{
+  "meta": {
+    "filename": "bystraja/Amganov_kino.eaf",
+    "title": "bystraja/Amganov_kino.",
+    "author": "BP",
+    "year": "2022",
+    "recplace": "Bystraja district",
+    "genre": "corpus"
+  },
+  "sentences": [
+    {
+      "text": "russian",
+      "words": [
+        {
+          "wf": "russian",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 7,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 2,
+          "ana": [
+            {
+              "lex": "russian",
+              "gloss": "",
+              "parts": "",
+              "gloss_index": ""
+            }
+          ]
+        }
+      ],
+      "lang": 0,
+      "src_alignment": [
+        {
+          "off_start_src": 0.0,
+          "off_end_src": 52.9,
+          "off_start_sent": 0,
+          "off_end_sent": 7,
+          "mtype": "audio",
+          "src_id": 1,
+          "src": "Amganov_kino.wav"
+        }
+      ]
+    },
+    {
+      "text": "Umekičeː tarakamke krasnaj.jarangake ọːddanasi Twajaːndụlake elektrostancijade bisin ụkal umekič kinowde emuriten.",
+      "words": [
+        {
+          "wf": "Umekičeː",
+          "wtype": "word",
+          "off_start": 0,
+          "off_end": 8,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 12,
+          "ana": [
+            {
+              "lex": "Umekičeː",
+              "gloss": "very=emph",
+              "parts": "umekič=eː",
+              "gloss_index": "very{umekič}=emph{eː}"
+            }
+          ]
+        },
+        {
+          "wf": "tarakamke",
+          "wtype": "word",
+          "off_start": 2,
+          "off_end": 11,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 11,
+          "ana": [
+            {
+              "lex": "tarakamke",
+              "gloss": "in.those.days=emph",
+              "parts": "tarakam=kE",
+              "gloss_index": "in.those.days{tarakam}=emph{kE}"
+            }
+          ]
+        },
+        {
+          "wf": "krasnaj.jarangake",
+          "wtype": "word",
+          "off_start": 4,
+          "off_end": 21,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 10,
+          "ana": [
+            {
+              "lex": "krasnaj.jarangake",
+              "gloss": "red.yurt.R=emph",
+              "parts": "krasnaja.jaranga=kE",
+              "gloss_index": "red.yurt.R{krasnaja.jaranga}=emph{kE}"
+            }
+          ]
+        },
+        {
+          "wf": "ọːddanasi",
+          "wtype": "word",
+          "off_start": 6,
+          "off_end": 15,
+          "next_word": 4,
+          "sentence_index": 3,
+          "sentence_index_neg": 9,
+          "ana": [
+            {
+              "lex": "ọːddanasi",
+              "gloss": "become-prog-nonfut-3sg-ep=emph",
+              "parts": "ọː-D-R(E)-n(I)-E=sI",
+              "gloss_index": "become{ọː}-prog{D}-nonfut{R(E)}-3sg{n(I)}-ep{E}=emph{sI}"
+            }
+          ]
+        },
+        {
+          "wf": "Twajaːndụlake",
+          "wtype": "word",
+          "off_start": 8,
+          "off_end": 21,
+          "next_word": 5,
+          "sentence_index": 4,
+          "sentence_index_neg": 8,
+          "ana": [
+            {
+              "lex": "Twajaːndụlake",
+              "gloss": "Twajaːn-loc=emph",
+              "parts": "Twajaːn-(dU)LE=kE",
+              "gloss_index": "Twajaːn{Twajaːn}-loc{(dU)LE}=emph{kE}"
+            }
+          ]
+        },
+        {
+          "wf": "elektrostancijade",
+          "wtype": "word",
+          "off_start": 10,
+          "off_end": 27,
+          "next_word": 6,
+          "sentence_index": 5,
+          "sentence_index_neg": 7,
+          "ana": [
+            {
+              "lex": "elektrostancijade",
+              "gloss": "powerstation.R=ptl",
+              "parts": "elektrostancija=DE",
+              "gloss_index": "powerstation.R{elektrostancija}=ptl{DE}"
+            }
+          ]
+        },
+        {
+          "wf": "bisin",
+          "wtype": "word",
+          "off_start": 12,
+          "off_end": 17,
+          "next_word": 7,
+          "sentence_index": 6,
+          "sentence_index_neg": 6,
+          "ana": [
+            {
+              "lex": "bisin",
+              "gloss": "be-pst-poss.3sg",
+              "parts": "bi-RI-n(I)",
+              "gloss_index": "be{bi}-pst{RI}-poss.3sg{n(I)}"
+            }
+          ]
+        },
+        {
+          "wf": "ụkal",
+          "wtype": "word",
+          "off_start": 14,
+          "off_end": 18,
+          "next_word": 8,
+          "sentence_index": 7,
+          "sentence_index_neg": 5,
+          "ana": [
+            {
+              "lex": "ụkal",
+              "gloss": "already",
+              "parts": "ụkal",
+              "gloss_index": "already{ụkal}"
+            }
+          ]
+        },
+        {
+          "wf": "umekič",
+          "wtype": "word",
+          "off_start": 16,
+          "off_end": 22,
+          "next_word": 9,
+          "sentence_index": 8,
+          "sentence_index_neg": 4,
+          "ana": [
+            {
+              "lex": "umekič",
+              "gloss": "very",
+              "parts": "umekič",
+              "gloss_index": "very{umekič}"
+            }
+          ]
+        },
+        {
+          "wf": "kinowde",
+          "wtype": "word",
+          "off_start": 18,
+          "off_end": 25,
+          "next_word": 10,
+          "sentence_index": 9,
+          "sentence_index_neg": 3,
+          "ana": [
+            {
+              "lex": "kinowde",
+              "gloss": "movies.R-acc=ptl",
+              "parts": "kino-W=DE",
+              "gloss_index": "movies.R{kino}-acc{W}=ptl{DE}"
+            }
+          ]
+        },
+        {
+          "wf": "emuriten.",
+          "wtype": "word",
+          "off_start": 20,
+          "off_end": 29,
+          "next_word": 11,
+          "sentence_index": 10,
+          "sentence_index_neg": 2,
+          "ana": [
+            {
+              "lex": "emuriten.",
+              "gloss": "come-caus-pst-poss.3pl",
+              "parts": "em-U-RI-tEn",
+              "gloss_index": "come{em}-caus{U}-pst{RI}-poss.3pl{tEn}"
+            }
+          ]
+        }
+      ],
+      "lang": 0,
+      "src_alignment": [
+        {
+          "off_start_src": 52.9,
+          "off_end_src": 153.7,
+          "off_start_sent": 0,
+          "off_end_sent": 114,
+          "mtype": "audio",
+          "src_id": 2,
+          "src": "Amganov_kino.wav"
+        }
+      ]
+    }
+  ]
+}
